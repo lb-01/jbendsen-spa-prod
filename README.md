@@ -1,2 +1,0 @@
-# jbendsen-spa-prod
-course 
